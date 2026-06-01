@@ -1,0 +1,10 @@
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE / Editor Settings
+.idea/
+.vscode/
+*.swp
+*.suo
